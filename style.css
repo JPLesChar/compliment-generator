@@ -5,10 +5,19 @@ body {
 }
 
 button {
+<<<<<<< Updated upstream
   padding: 30px;
 }
 
 h1 {
   color: #ffffff;
   font-size: 99px;
+=======
+  padding: 100px;
+}
+
+h1 {
+  font-size: 136px;
+  color: #dc0fdc;
+>>>>>>> Stashed changes
 }
