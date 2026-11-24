@@ -5,5 +5,3 @@ const compliments = [
   "Never give up."
 ];
 
-const message = document.querySelector("p");
-
