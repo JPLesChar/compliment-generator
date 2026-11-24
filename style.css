@@ -5,5 +5,10 @@ body {
 }
 
 button {
-  padding: 10px;
+  padding: 30px;
+}
+
+h1 {
+  color: #ffffff;
+  font-size: 99px;
 }
