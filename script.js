@@ -1,6 +1,8 @@
 const compliments = [
   "You are making progress every day.",
+  "Now unpress the button and see what happens.",
   "You are more capable than you think.",
+  "Do not press the button again.",
   "Consistency beats talent.",
   "Never give up."
 ];
