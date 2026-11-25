@@ -1,8 +1,22 @@
 body {
+  background-color: #a397c6;
   font-family: Arial, sans-serif;
   text-align: center;
 }
 
 button {
-  padding: 10px;
+  background-color: #054d07;
+  color: #f2f461;
+  font-size: 44px;
+  padding: 11px 11px
+}
+
+h1 {
+  font-size: 88px;
+  color: #f2f461;
+}
+
+p {
+  font-size: 44px;
+  color: #219a4f;
 }
