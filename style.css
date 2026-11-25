@@ -7,10 +7,16 @@ body {
 button {
   background-color: #054d07;
   color: #f2f461;
-  padding: 10px;
+  font-size: 44px;
+  padding: 11px 11px
 }
 
 h1 {
   font-size: 88px;
   color: #f2f461;
+}
+
+p {
+  font-size: 44px;
+  color: #219a4f;
 }
